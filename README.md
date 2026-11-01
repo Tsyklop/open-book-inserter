@@ -19,3 +19,7 @@ Copy `OpenBookInserter_1.0.0.zip` to `%APPDATA%\Factorio\mods`, then restart Fac
 Right-click an inventory blueprint book to open it. Pick up a blueprint or another book while keeping the target open, then press either **Shift** key to move the held item into its first empty slot. Rebind the action under **Settings → Controls → Mods** if desired. Blueprint-library references must first be made into inventory items.
 
 Can be installed together with Blueprint Book Shelf: the two actions use different target contexts. If a Shift action is already assigned to another mod, change the bindings.
+
+## Source code
+
+[GitHub repository](https://github.com/Tsyklop/open-book-inserter)
