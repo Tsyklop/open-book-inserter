@@ -1,0 +1,9 @@
+{
+  "name": "OpenBookInserter",
+  "version": "1.0.0",
+  "title": "Open Book Inserter",
+  "author": "tsyklop",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.23"],
+  "description": "Press Shift to move the blueprint or blueprint book in your hand into the currently open blueprint book. Preserves nested books and blueprint data. Configurable key binding."
+}

@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-10-29
+  Features:
+    - Move a held blueprint or book into the currently open inventory book with Shift.
+    - Preserve item data and nested books; reject recursive and full-book transfers.
+    - English and Russian translations, configurable key binding.
